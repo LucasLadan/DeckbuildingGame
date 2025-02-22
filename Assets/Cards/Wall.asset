@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 18
   damage: 1
-  cardName: 
+  sprite: {fileID: -5356574185940491189, guid: 17f0578992a3999409ab8ea67330c2a6, type: 3}
   buff: 0
+  special: 0

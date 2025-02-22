@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 8
   damage: 2
-  sprite: {fileID: 0}
+  sprite: {fileID: -2880734798192188640, guid: 7e3694b0f4afb724c888fb79d759b28a, type: 3}
   buff: 1
+  special: 1

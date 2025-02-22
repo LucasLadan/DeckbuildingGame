@@ -7,7 +7,13 @@ public class Cards : ScriptableObject
     public int damage;
     public Sprite sprite;
     public PreferedBuff buff;
+    public Special special;
     
+
+    public enum Special
+    {
+        none, buff
+    }
 
     public enum PreferedBuff
     {

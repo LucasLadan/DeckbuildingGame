@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 1
   damage: 18
-  cardName: Sniper
+  sprite: {fileID: 6879118450950661895, guid: bab1d98d231407e499fa3dfd137e1f54, type: 3}
   buff: 0
+  special: 0

@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9a49461ff46da74c98de1ff15af34a1, type: 3}
   m_Name: Attack
   m_EditorClassIdentifier: 
-  health: 8
+  health: 6
   damage: 5
-  sprite: {fileID: 0}
+  sprite: {fileID: 6683615111705859281, guid: 30b879b4db29fcb478d775c8a62354f1, type: 3}
   buff: 1
+  special: 0
